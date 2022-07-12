@@ -1,1 +1,1 @@
-# pepper-mining-desktop
+Pepper releases repository
