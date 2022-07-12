@@ -1,0 +1,1 @@
+# pepper-mining-desktop
